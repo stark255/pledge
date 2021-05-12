@@ -14,7 +14,7 @@ It is a platform to reimagine about places we put our efforts into as developers
 
    ```sh
    cd pledge
-   nvm install
+   npm install
    ```
 
 3. Install the Gatsby CLI
